@@ -1,1 +1,1 @@
-# BOOKSTORE
+This is a Sample Book-Keeping(Mini-Library) implementation using HTML, CSS and JAVASCRIPT.
